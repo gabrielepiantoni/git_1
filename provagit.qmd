@@ -22,4 +22,7 @@ When you click the **Render** button a presentation will be generated that inclu
 1 + 1
 ```
 
+```{r}
+gitcreds::gitcreds_set()
+```
 
